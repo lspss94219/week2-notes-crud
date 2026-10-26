@@ -10,7 +10,7 @@ Create and activate a virtual environment in terminal:
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-
+```
 ## 2. Installing Packages
 
 python -m pip install -r requirements.txt
