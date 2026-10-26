@@ -1,5 +1,5 @@
-/.postman
-/.venv
-/__pycache__
-/notes.db
-/postman
+.venv/
+__pycache__/
+*.pyc
+*.db
+.env
